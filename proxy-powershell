@@ -1,3 +1,1 @@
-Set-PSRepository -Name PSGallery -InstallationPolicy Trusted
-$webclient=New-Object System.Net.WebClient            
-$webclient.Proxy.Credentials = [System.Net.CredentialCache]::DefaultNetworkCredentials
+
